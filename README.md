@@ -69,8 +69,9 @@ Let’s learn, build, and secure the future together.
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrispus-kagima/)  
-  - 📝 Dev Blog: https://www.linkedin.com/newsletters/7237084842029441024/
+- 💼 [LinkedIn](https://www.linkedin.com/in/chrispus-kagima/)
+  
+- 📝 Dev Blog: https://www.linkedin.com/newsletters/7237084842029441024/
   
 <em>“Security is not a product, but a process.” — Bruce Schneier</em>
   
