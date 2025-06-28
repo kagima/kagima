@@ -40,11 +40,15 @@ Tools & Platforms: Git | GitHub | Docker | Postman | Linux
 
 ---
 
-### 🛠 🚀 Let’s Collaborate
-I’m open to collaborating on:
+### 📫 How to Reach Me
 
-🔐 Security-focused backend projects
-🧠 Data-driven defense models or threat analysis tools
-🛡️ Open-source projects around secure coding and system hardening
-Let’s learn, build, and secure the future together.
+I'm always open to connecting and collaborating! You can reach me via:
+
+* **LinkedIn**: https://www.linkedin.com/in/chrispus-kagima/
+
+
+---
+
+
+
 
