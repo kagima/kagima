@@ -38,16 +38,6 @@ Data Tools: Pandas | NumPy | Jupyter | Scikit-learn
 Cybersecurity: Wireshark | Burpsuite | Wazuh 
 Tools & Platforms: Git | GitHub | Docker | Postman | Linux  
 
----
-
-### 📫 How to Reach Me
-
-I'm always open to connecting and collaborating! You can reach me via:
-
-* **LinkedIn**: https://www.linkedin.com/in/chrispus-kagima/
-
-
----
 
 
 
